@@ -67,13 +67,12 @@ This Excel project transforms raw fictional sales data from Kaggle's [Sample Sup
     
         MsgBox "✅ All Pivot Tables have been refreshed!", vbInformation, "Refresh Complete"
     End Sub
-
-![image](https://github.com/user-attachments/assets/aeda7751-9f66-478b-ac64-ae8747ce4fb1)
+  ```
+    ![image](https://github.com/user-attachments/assets/aeda7751-9f66-478b-ac64-ae8747ce4fb1)
 
   ### 🔁 Slicer Panel Show/Hide - VBA Macro
-    This VBA macro toggle the Slicer Panel Visibility.
-
-    ```vb
+  This VBA macro toggle the Slicer Panel Visibility.
+  ```vb
     Sub ShowSlicerPanel()
       ' Show the slicer panel group
       ActiveSheet.Shapes("SlicerPanel_main").Visible = True
@@ -87,6 +86,7 @@ This Excel project transforms raw fictional sales data from Kaggle's [Sample Sup
         ActiveSheet.Shapes("ShowPanelBtn").Visible = True
         ActiveSheet.Shapes("HidePanelBtn").Visible = False
     End Sub
+  ```
 ---
 - **Advanced Excel Functions** (demonstrated in supporting sheets):
   - `INDEX-MATCH` for reverse lookups.

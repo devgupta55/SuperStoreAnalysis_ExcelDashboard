@@ -16,8 +16,11 @@ This Excel project transforms raw fictional sales data from Kaggle's [Sample Sup
 
 ---
 ## 📷 Preview
-<img src = "https://github.com/user-attachments/assets/582e3405-1084-4664-ba85-20c129ccd60a" width = "1000px" height = "600px"><br>
-<img src = "https://github.com/user-attachments/assets/69fa6d51-0c60-43cc-846e-cb287e556101" width = "1000px" height = "600px"><br>
+<img src = "https://github.com/user-attachments/assets/e253e700-0c1a-453f-ab47-93c2fdb9ee30" width = "1000px" height = "600px"><br>
+<img src = "https://github.com/user-attachments/assets/c623ac89-1954-45af-84bf-ba3296ac876b" width = "1000px" height = "600px"><br>
+<img src = "https://github.com/user-attachments/assets/827b9cf8-817d-48ba-8da1-d758fbc5a50d" width = "500px" height = "600px">
+<img src = "https://github.com/user-attachments/assets/d776149f-3a78-4a01-856e-d0b796d94f50" width = "500px" height = "600px"><br>
+
 ---
 
 ## 📊 Project Highlights
